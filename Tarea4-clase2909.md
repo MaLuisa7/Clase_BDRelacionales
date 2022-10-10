@@ -110,3 +110,15 @@ INSERT into departments (dept_no,dept_name) values
 ('rh','recursos humanos')
 ;
 ```
+
+<!---
+Para ver el pdf
+ctrl+shift+v
+
+
+Para git 
+git status
+git add .
+git commit -m "Cambios en redaccion 3 "
+git push origin main
+-->
