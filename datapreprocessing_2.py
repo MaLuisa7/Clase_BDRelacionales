@@ -160,3 +160,13 @@ efectivamente si son iguales entonces , solo necesito una tabla! :D
 dframe_1 = path2 + '/' + lstZones1[2]
 df_z1 = pd.read_csv(dframe_1, names= ['id_zona', 'zonaGeografica'],sep= '|')
 #df_z1.to_csv('zonasGeograficas.csv')
+
+'''Para git 
+TENGO QUE ESTAR EN UNA CONSOLA DE POWERSHELL 
+git status
+git add .
+git commit -m "Cambios en redaccion 3 "
+to files too large : git lfs migrate import --include="*.csv" (100)  --- 100.00 MB
+git push origin main
+
+ '''
