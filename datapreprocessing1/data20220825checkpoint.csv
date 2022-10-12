@@ -1,34 +1,3 @@
-,location=121201;status=done,folder_id
-0,location=010101;status=done,data20220825
-1,location=292902;status=done,data20220825
-2,location=040401;status=done,data20220825
-3,location=232301;status=done,data20220825
-4,location=080801;status=done,data20220825
-5,location=150901;status=done,data20220825
-6,location=080802;status=done,data20220825
-7,location=171701;status=done,data20220825
-8,location=252501;status=done,data20220825
-9,location=101001;status=done,data20220825
-10,location=141401;status=done,data20220825
-11,location=262601;status=done,data20220825
-12,location=030301;status=done,data20220825
-13,location=111101;status=done,data20220825
-14,location=313101;status=done,data20220825
-15,location=191901;status=done,data20220825
-16,location=161601;status=done,data20220825
-17,location=202001;status=done,data20220825
-18,location=303004;status=done,data20220825
-19,location=131301;status=done,data20220825
-20,location=232303;status=done,data20220825
-21,location=212101;status=done,data20220825
-22,location=222201;status=done,data20220825
-23,location=050501;status=done,data20220825
-24,location=242401;status=done,data20220825
-25,location=282804;status=done,data20220825
-26,location=020201;status=done,data20220825
-27,location=292901;status=done,data20220825
-28,location=151501;status=done,data20220825
-29,location=070701;status=done,data20220825
-30,location=303001;status=done,data20220825
-31,location=272701;status=done,data20220825
-32,location=323201;status=done,data20220825
+version https://git-lfs.github.com/spec/v1
+oid sha256:b19437a8637642ef83f71ed10a67e34e849afc9beb80c1d29123e17b9f724410
+size 1481
