@@ -11,6 +11,8 @@ path_dp= "C:/Users/Maria Luisa/OneDrive/Documentos/MasterDataScience/BDRelaciona
 
 cont1 = os.listdir(path_dp) 
 
+Folders = pd.DataFrame(data = cont1, columns = ['folderName'])
+Folders.to_csv('Folders.csv') 
 #checar si todas las columnas si coinciden y si algun descriptivo (suma) / dimension varian de df a df 
 
 arbol = [] #ok
@@ -85,11 +87,14 @@ AllPrices = concatenar(precios) #[1848292 rows x 7 columns] --> si coinciden :)
 AllProducts = concatenar(productos) #[448463 rows x 7 columns] --> si coinciden :) 
 AllTiendas = concatenar(tiendas) #[12182 rows x 11 columns] --> si coinciden :) 
 
-AllTrees.to_csv('AllTrees.csv')
-AllPrices.to_csv('AllPrices.csv')
-AllProducts.to_csv('AllProducts.csv')
-AllTiendas.to_csv('AllTiendas.csv')
-
+#AllTrees.to_csv('AllTrees.csv')
+#AllPrices.to_csv('AllPrices.csv')
+#AllProducts.to_csv('AllProducts.csv')
+#AllTiendas.to_csv('AllTiendas.csv')
+len(AllTrees.columns)
+len(AllPrices.columns)
+len(AllProducts.columns)
+len(AllTiendas.columns)
 
 #############################Ver que onda con zonas geo
 
