@@ -27,7 +27,7 @@
 
 
 ## **Respuestas** 
-1. 
+El punto 1. y 2. estan relacionados y se desarrollan a continuación.
 ~~~
 ###########################  a) 1.-  Conteo de frecuencias 
 SELECT COUNT(DISTINCT categoria) FROM arbol; #65 
@@ -65,3 +65,5 @@ LIMIT 1;
 
 e) 5.- Reportar hallazgos, dificultades, implementación de soluciones encontradas en línea, etc.<br /><br />
 Entre los hallazgos y dificultades que encontre fue que muchas de las soluciones propuestas en páginas web como stackoverflow no las entendí y por ende, cuando las implementaba no me salían correctamente, por lo que empece a plantearlo como lo haría a mi manera de una forma tal vez menos eficiente pero más entendible para mi parecer. 
+
+3. Este punto se ve reflejado en el presente documento.
